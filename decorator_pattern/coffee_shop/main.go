@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	beverage "github.com/IsaComegna/design-patterns-go/beverage"
-	decorator "github.com/IsaComegna/design-patterns-go/decorator"
+	beverage "github.com/IsaComegna/design-patterns-go/coffee_shop/beverage"
+	decorator "github.com/IsaComegna/design-patterns-go/coffee_shop/decorator"
 )
 
 func main() {

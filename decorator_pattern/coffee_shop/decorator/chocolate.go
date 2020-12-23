@@ -3,7 +3,7 @@ package decorator
 import (
 	"fmt"
 
-	beverage "github.com/IsaComegna/design-patterns-go/beverage"
+	beverage "github.com/IsaComegna/design-patterns-go/coffee_shop/beverage"
 )
 
 const chocolatePrice float32 = 3.00
